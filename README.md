@@ -5,7 +5,8 @@ A data-driven analysis of furniture export performance, covering seasonal demand
 ---
 
 ### 📊 Download Project Files
-* 📄 [Download Complete Excel Workbook (.xlsx)](https://github.com/Deneiraintan/Furniture-Sales-Performance-Analysis/raw/main/Furniture.csv.xlsx)
+* 📄 [Download Complete Excel Workbook (.xlsx)](https://github.com/Deneiraintan/Furniture-Sales-Performance-Analysis-by-Deneira/blob/main/Furniture.csv.xlsx?raw=true)
+*
 
 ---
 
